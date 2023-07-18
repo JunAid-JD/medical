@@ -1,0 +1,203 @@
+
+@media screen and ((min-width: 768px) and (max-width: 900px)) {
+    .herocontainer {
+            text-align: center;
+        }
+}
+
+
+@media screen and  (max-width: 950px) {
+     
+    .servicesimg {
+            display: block;
+        }
+    .servicesimg img{
+        width: 100vw;
+     }
+
+     .services {
+        display: none;
+    }
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .search{
+        display: none;
+    }
+         .subscribe {
+             display: block;
+         }
+        .arrowleft,
+        .arrowright {
+            display: none !important;
+        }
+
+
+
+                  .herocontainer {
+                      text-align: center;
+                  }
+        
+                  .servicessection {
+                      text-align: center;
+                  }
+        
+                  .test {
+                      text-align: center;
+                  }
+        
+                  .whyus {
+                      text-align: center;
+                  }
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 600px) {
+    .headerappbtns{
+       display: none !important;
+    }
+        .headermobilebtn{
+            display: block !important;
+        }
+        header{
+            border-bottom: 3px solid #ede7e7 ;
+        }
+      
+
+
+.heroright img {
+    width: 350px;
+}
+
+
+
+        .quote{
+            width: 400px;
+        }
+        .quote2{
+            top: 6rem;
+        }
+                .contact {
+                    margin: 2rem;
+                }
+
+
+              .contactbox {
+                            width: 350px;
+                        }
+               .subscribe {
+                             display: block;
+                           }
+    }
+
+
+@media screen and (max-width: 400px) {
+    header {
+            padding: 0 0.5rem;
+        }
+        .quote {
+            width: 290px;
+                height: 120px;
+        }
+                .heroright img {
+                    width: 300px;
+                }
+          .herocontainer {
+                 margin: 1rem;
+                       }
+
+                .contact {
+                    margin: 1rem;
+                }
+
+                .contactbox{
+                    width: 300px;
+                }
+                                .quote2 {
+                                    top: 7rem;
+                                    right: 0;
+                                }
+    
+    
+    
+    /* services  */
+        .line1 {
+            width: 16.94px;
+            height: 2.71px;
+        }
+    
+        .service1 {
+            width: 71.32px;
+            height: 66.82px;
+        }
+    
+        .line2 {
+            width: 66.22px;
+            height: 2.71px;
+        }
+    
+        .service2 {
+            width: 71.32px;
+            height: 66.82px;
+        }
+    
+        .line3 {
+            width: 63.31px;
+            height: 2.71px;
+        }
+    
+        .service3 {
+            width: 71.32px;
+            height: 66.82px;
+        }
+    
+        .line4 {
+            width: 103.57px;
+            height: 27.83px;
+        }
+    
+        .service4 {
+            width: 71.32px;
+            height: 66.82px;
+        }
+    
+        .service5 {
+            width: 71.32px;
+            height: 66.82px;
+        }
+    
+        .service6 {
+            width: 71.32px;
+            height: 66.82px;
+        }
+    
+        .line5 {
+            width: 24.84px;
+            height: 2.71px;
+        }
+    
+        .line6 {
+            width: 41.16px;
+            height: 1.99px;
+        }
+    
+        .line7 {
+            width: 48.27px;
+            height: 2.6px;
+        }
+    
+    
+    
+    
+    
+                            }
